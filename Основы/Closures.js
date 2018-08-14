@@ -28,7 +28,7 @@ counter.reset();
 counter(); // 1
 
 
-// Задачи с learn.javascript.ru
+/*ЗАДАЧИ LEARN JAVASCRIPT*/
 
 // Напишите функцию sum, которая работает так: sum(a)(b) = a+b.
 function sum(a) {
